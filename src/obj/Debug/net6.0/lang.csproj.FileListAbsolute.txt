@@ -1,0 +1,15 @@
+D:\projects\csharp\general\lang\bin\Debug\net6.0\lang.exe
+D:\projects\csharp\general\lang\bin\Debug\net6.0\lang.deps.json
+D:\projects\csharp\general\lang\bin\Debug\net6.0\lang.runtimeconfig.json
+D:\projects\csharp\general\lang\bin\Debug\net6.0\lang.dll
+D:\projects\csharp\general\lang\bin\Debug\net6.0\lang.pdb
+D:\projects\csharp\general\lang\obj\Debug\net6.0\lang.csproj.AssemblyReference.cache
+D:\projects\csharp\general\lang\obj\Debug\net6.0\lang.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\csharp\general\lang\obj\Debug\net6.0\lang.AssemblyInfoInputs.cache
+D:\projects\csharp\general\lang\obj\Debug\net6.0\lang.AssemblyInfo.cs
+D:\projects\csharp\general\lang\obj\Debug\net6.0\lang.csproj.CoreCompileInputs.cache
+D:\projects\csharp\general\lang\obj\Debug\net6.0\lang.dll
+D:\projects\csharp\general\lang\obj\Debug\net6.0\refint\lang.dll
+D:\projects\csharp\general\lang\obj\Debug\net6.0\lang.pdb
+D:\projects\csharp\general\lang\obj\Debug\net6.0\lang.genruntimeconfig.cache
+D:\projects\csharp\general\lang\obj\Debug\net6.0\ref\lang.dll
